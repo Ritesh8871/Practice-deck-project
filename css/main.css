@@ -836,7 +836,7 @@ article.ttm-blog-classic .ttm-box-post-icon i, article.ttm-blog-single .ttm-box-
 .ttm-btn.ttm-btn-style-border.ttm-btn-color-white:not(.btn-inline):after,
 nav.main-menu ul.menu li ul.mega-submenu li:hover > a > span,
 nav.main-menu ul.menu li ul.mega-submenu li.active > a > span{
-    background-color: #fff;
+    /* background-color: #fff; */
 }
 
 
