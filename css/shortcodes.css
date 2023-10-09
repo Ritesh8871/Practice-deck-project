@@ -1375,6 +1375,10 @@
     font-weight: 500;
     font-family : 'Nunito Sans', sans-serif;
 }
+.featuredbox-number
+{
+    height: 38rem;
+}
 
 
 .featured-icon-box.icon-align-before-content.style4{
