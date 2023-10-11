@@ -1710,7 +1710,7 @@
     margin-bottom: 2px;
 }
 .featured-imagebox-portfolio.ttm-portfolio-box-view2 .featured-content-portfolio{
-    padding: 26px 10px;
+    /* padding: 26px 10px; */
     text-align: center;
 }
 .featured-imagebox-portfolio.ttm-portfolio-box-view2 img{
@@ -2562,7 +2562,7 @@
 .ttm-boxes-spacing-15px .ttm-box-col-wrapper {
     padding-right: 15px;
     padding-left: 15px;
-    margin: 0 0 30px;
+    /* margin: 0 0 30px; */
 }
 
 .row.ttm-boxes-spacing-10px{ margin: 0 -5px; }
@@ -2583,6 +2583,10 @@
     padding-left: 0px;
     margin-bottom: 0px;
     outline: 0;
+}
+.ttm-box-col-wrapper
+{
+    padding: 0 5px !important;
 }
 
 
