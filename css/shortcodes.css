@@ -46,7 +46,7 @@
     1.ttm-row
 ------------------------*/
 .ttm-row{ padding: 90px 0;}
-.ttm-row.introduction-section { padding: 90px 0 85px; }
+.ttm-row.introduction-section { padding: 90px 0 50px; }
 .ttm-row.broken-section-1{ padding: 0px 0 125px; }
 .ttm-row.action-section{ padding: 78px 0; }
 .ttm-row.broken-section { padding: 0; }
@@ -305,7 +305,7 @@
 }
 .col-bg-img-eleven.ttm-col-bgimage-yes .ttm-col-wrapper-bg-layer{
     background-image: url(../images/img14.jpg);
-    background-position: right top!important; 
+    background-position: center!important; 
     background-repeat: no-repeat;
     background-size: contain;
 }
