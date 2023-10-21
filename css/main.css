@@ -718,7 +718,7 @@ article.ttm-blog-single .ttm-box-post-icon,
 .sidebar .widget.widget-search .search-form .btn[type="submit"]:hover ,
 .ttm-tabs.ttm-tab-style-horizontal ul.tabs li.active a,
 .featured-imagebox-services.style2:hover .featured-content .ttm-di_links .di_link{
-  background-color: #0085b3;
+  background-color: #038FBE;
 }
 
 a.rev-border-button, .header_search .search_btn:hover, 
@@ -836,7 +836,7 @@ article.ttm-blog-classic .ttm-box-post-icon i, article.ttm-blog-single .ttm-box-
 .ttm-btn.ttm-btn-style-border.ttm-btn-color-white:not(.btn-inline):after,
 nav.main-menu ul.menu li ul.mega-submenu li:hover > a > span,
 nav.main-menu ul.menu li ul.mega-submenu li.active > a > span{
-    /* background-color: #fff; */
+    background-color: #fff;
 }
 
 
@@ -1730,7 +1730,7 @@ nav.main-menu ul.menu li ul.mega-submenu li > a > span:before {
     Page-Title-Row
 ------------------------*/
 .ttm-page-title-row { 
-    background: url(../images/ttm-pagetitle-bg.jpg);
+    background: url(../images/bg_img1.jpg);
     width: 100%;
     background-size: cover;
     background-position: center;

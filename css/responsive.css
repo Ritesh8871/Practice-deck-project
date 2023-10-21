@@ -43,10 +43,10 @@
 
 	/* Bg-Layer */
 	.ttm-left-span .ttm-col-wrapper-bg-layer {
-	    margin-left: -200px;
+	    /* margin-left: -200px; */
 	}
 	.ttm-right-span .ttm-col-wrapper-bg-layer {
-	    margin-right: -200px;
+	    /* margin-right: -200px; */
 	}
 }
 
